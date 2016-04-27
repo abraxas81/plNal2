@@ -1,1 +1,0 @@
-<a id="refresh" href="#" class="btn btn-sm btn-primary" title="Poništi filtere"><i class="glyphicon glyphicon-refresh"></i></a>
